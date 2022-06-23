@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreaMangla
-- 👀 I’m interested in Front End Developing
-- 🌱 I’m currently learning Flutter, HTML & CSS
+- 👀 I’m interested in Computer Science and Human-Computer Interaction
+- 🌱 I’m currently working with HTML, CSS, JavaScript and PHP
 - 📫 How to reach me ? andrea.manglaviti@mail.polimi.it
 
 <!---
